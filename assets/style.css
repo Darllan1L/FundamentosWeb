@@ -24,14 +24,15 @@ nave ul{
     width: 40%;
 }
 
+
 nave a{
-    color: #1D3372;
+    color: #040B58;
     font-weight: 600;
     text-decoration: none;
     font-size: 32px;
 }
 nave a:hover{
-    color: #82D1DA;
+    color: #6182DF;
     transition: 2s;
 }
 
