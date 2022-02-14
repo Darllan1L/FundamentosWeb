@@ -33,7 +33,7 @@ nave a{
 }
 nave a:hover{
     color: #6182DF;
-    transition: 2s;
+    transition: 1s;
 }
 
 #SobreMim {
@@ -53,7 +53,38 @@ nave a:hover{
 
 .Foto{
     width: 30%;
+    height: 30%;
     border: 2px solid #fcfcfc;
     border-radius: 60% ;
     margin: 0 auto;
+}
+.Center{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+.rede{
+    width: 30px;
+    height: 30px;
+    padding: 30px;
+}
+.container{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+.tamanho{
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+}
+
+.margem{
+    margin-left: 50px;
+}
+
+.margem foter{
+    margin-bottom: 50px;
 }
